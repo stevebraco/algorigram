@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T11:23:48.332Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="aExfKyUtNhJ9d1A05lE1" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-18T11:48:59.916Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="9Ph7Q8jOYyDihrn2jqgD" version="17.4.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="946" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -117,10 +117,10 @@
         </mxCell>
         <mxCell id="9EUDGltDmxE99oZRwppm-48" value="oui" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9EUDGltDmxE99oZRwppm-46">
           <mxGeometry x="-0.181" y="-2" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
+            <mxPoint y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9EUDGltDmxE99oZRwppm-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.4;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9EUDGltDmxE99oZRwppm-44" target="9EUDGltDmxE99oZRwppm-49">
+        <mxCell id="9EUDGltDmxE99oZRwppm-51" value="non" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.4;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9EUDGltDmxE99oZRwppm-44" target="9EUDGltDmxE99oZRwppm-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9EUDGltDmxE99oZRwppm-44" value="Le tableau contient des recettes" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -130,7 +130,7 @@
           <mxGeometry x="440" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9EUDGltDmxE99oZRwppm-49" value="Affiche: &quot;&lt;span style=&quot;font-family: &amp;#34;lato&amp;#34; , sans-serif ; font-size: 10px&quot;&gt;Aucune recette ne correspond à votre critère… vous pouvez chercher « tarte aux pommes », « poisson »&lt;/span&gt;&lt;br&gt;&amp;nbsp;&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="930" width="200" height="100" as="geometry" />
+          <mxGeometry x="180" y="950" width="200" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
